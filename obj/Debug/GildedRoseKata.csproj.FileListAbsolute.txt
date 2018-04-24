@@ -1,0 +1,11 @@
+c:\users\akhdhaouria\documents\visual studio 2013\Projects\GildedRoseKata\GildedRoseKata\bin\Debug\GildedRoseKata.dll
+c:\users\akhdhaouria\documents\visual studio 2013\Projects\GildedRoseKata\GildedRoseKata\bin\Debug\GildedRoseKata.pdb
+c:\users\akhdhaouria\documents\visual studio 2013\Projects\GildedRoseKata\GildedRoseKata\obj\Debug\GildedRoseKata.dll
+c:\users\akhdhaouria\documents\visual studio 2013\Projects\GildedRoseKata\GildedRoseKata\obj\Debug\GildedRoseKata.pdb
+c:\users\akhdhaouria\documents\visual studio 2013\Projects\GildedRoseKata\GildedRoseKata\obj\Debug\GildedRoseKata.csprojResolveAssemblyReference.cache
+C:\Users\arejeb\Documents\GildedRoseKata\GildedRoseKata\bin\Debug\GildedRoseKata.dll
+C:\Users\arejeb\Documents\GildedRoseKata\GildedRoseKata\bin\Debug\GildedRoseKata.pdb
+C:\Users\arejeb\Documents\GildedRoseKata\GildedRoseKata\obj\Debug\GildedRoseKata.csprojResolveAssemblyReference.cache
+C:\Users\arejeb\Documents\GildedRoseKata\GildedRoseKata\obj\Debug\GildedRoseKata.csproj.CoreCompileInputs.cache
+C:\Users\arejeb\Documents\GildedRoseKata\GildedRoseKata\obj\Debug\GildedRoseKata.dll
+C:\Users\arejeb\Documents\GildedRoseKata\GildedRoseKata\obj\Debug\GildedRoseKata.pdb
